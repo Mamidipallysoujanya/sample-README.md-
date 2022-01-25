@@ -28,3 +28,29 @@ _{This is a detailed description of your application .Give as much as needed to 
 * _Any known issues_
 * _should go here_
 
+
+## syntax highlighting
+``` js
+var foo=function(bar){
+    return bar++;
+};
+console.log(foo(5));
+```
+
+## Tables
+| option  | Description  |
+| ------- | ------------ |
+|data     |path to data files to supply the data that will be passed into templates.|
+| ext      |extension to be used for test files.|
+
+## Links
+[link with title](http://nodeca.github.io/pica/demo/ "title text!")
+
+Autoconverted link http://github.com/nodeca/pica (enable linkify to see)
+
+## Images
+![Minion](http://octodex.github.com/images/mininon.png)
+
+
+
+
